@@ -1,0 +1,3 @@
+[submodule "git-submodule-child"]
+	path = git-submodule-child
+	url = https://github.com/puroong/git-submodule-child
